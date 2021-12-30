@@ -1,0 +1,16 @@
+textarea{
+    margin-left: 10%;
+    resize: none;
+    height:300%;
+    border: 0.5px black solid;
+    outline: 0px black solid;
+    border-radius: 5px;
+}
+
+div{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
